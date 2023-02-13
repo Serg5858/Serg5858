@@ -2,6 +2,8 @@
 
  ## I am QA-Engineer
 
+![Мои сертификаты](https://img.shields.io/badge/-Сертификаты-310062?style=for-the-badge&logo=JAVA&logoColor=E1C15F)
+
  ### Language and Tools
 ![JAVA](https://img.shields.io/badge/-Java-310062?style=for-the-badge&logo=JAVA&logoColor=E1C15F)
 ![SQL](https://img.shields.io/badge/-Sql-310062?style=for-the-badge&logo=mysql&logoColor=7BE188)
