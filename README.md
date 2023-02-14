@@ -2,7 +2,6 @@
 
  ## I am QA-Engineer
 
-![Сертификаты](https://docs.google.com/document/d/15p5U03_Y3D_XfP2_JsgXAAGvAMalRn230y_eNo4CZDM/edit)
 
  ### Language and Tools
 ![JAVA](https://img.shields.io/badge/-Java-310062?style=for-the-badge&logo=JAVA&logoColor=E1C15F)
